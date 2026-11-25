@@ -1,0 +1,1 @@
+{"enabled":false,"timeout":30,"list":["NA","EU","SEA"],"requeue":true,"regions":["NA","EU"]}

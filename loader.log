@@ -1,0 +1,7 @@
+[2026-11-21T13:38:43Z] [pistonware] [INFO] [version.resolved] release selected branch=main cache=refresh channel=main version=main@7d46f93c67f3
+[2026-11-21T13:38:44Z] [pistonware] [INFO] [boot.phase] waiting for ROBLOX completed seconds=1.54
+[2026-11-21T13:38:44Z] [pistonware] [INFO] [boot.phase] update check completed seconds=0.76
+[2026-11-21T13:38:46Z] [pistonware] [INFO] [boot.phase] config download/sync completed seconds=2.03
+[2026-11-21T13:38:47Z] [pistonware] [INFO] [boot.phase] config prompt completed seconds=0.69
+[2026-11-21T13:38:53Z] [pistonware] [INFO] [boot.phase] main.lua completed seconds=6.34
+[2026-11-21T13:38:53Z] [pistonware] [INFO] [loader.complete] injection succeeded channel=main version=main@7d46f93c67f3
